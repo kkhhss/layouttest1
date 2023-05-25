@@ -7,18 +7,27 @@
     <Button
         android:layout_width="110dp"
         android:layout_height="100dp"
+        android:backgroundTint="#00ff00"
+        android:textColor="@color/black"
+        android:textSize="20sp"
         android:layout_gravity="center"
         android:gravity="right"
         android:text="버튼1"/>
     <Button
         android:layout_width="110dp"
         android:layout_height="100dp"
+        android:backgroundTint="#00ff00"
+        android:textColor="@color/black"
+        android:textSize="20sp"
         android:layout_gravity="left"
         android:gravity="left|center"
         android:text="버튼2"/>
     <Button
         android:layout_width="110dp"
         android:layout_height="100dp"
+        android:backgroundTint="#00ff00"
+        android:textColor="@color/black"
+        android:textSize="20sp"
         android:layout_gravity="right"
         android:gravity="right|bottom"
         android:text="버튼2"/>
